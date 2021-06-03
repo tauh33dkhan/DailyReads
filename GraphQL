@@ -1,0 +1,11 @@
+# Graphql
+
+## Vulnerabilities
+
+### CSRF 
+
+https://blog.doyensec.com/2021/05/20/graphql-csrf.html
+
+**Techniques**
+Change Request Body Encoding
+1. Change POST body request encoding type from JSON to url encoded or multipart data.
